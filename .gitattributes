@@ -1,0 +1,4 @@
+examples/cav/mul8/proof/goal.mm filter=lfs diff=lfs merge=lfs -text
+examples/cav/permutations/proof/goal.mm filter=lfs diff=lfs merge=lfs -text
+examples/cav/tautologyhard/proof/goal.mm filter=lfs diff=lfs merge=lfs -text
+examples/cav/revnat/proof/goal.mm filter=lfs diff=lfs merge=lfs -text
